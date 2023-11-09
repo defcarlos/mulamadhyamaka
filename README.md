@@ -70,4 +70,5 @@ Another step that would shine further light on the text and would be to successf
 ## References
 1. Johnson, Kyle P. and Patrick Burns and John Stewart and Todd Cook. (2014-2021). CLTK: The Classical Language Toolkit. https://github.com/cltk/cltk
 2. Sanskrit Dictionary - https://www.sanskritdictionary.com/
+3. Vaidya, P. L. (ed.). (1960). Madhyamakaśāstra of Nāgārjuna. https://www.dsbcproject.org/canon-text/book/242
 
