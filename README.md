@@ -65,6 +65,8 @@ As with all languages, the meaning of Sanskrit words can vary depending on their
 Another complexity is that due to grammatical rules the endings of words change frequently. We can look at nirvāṇa. In MMK there are 13 instances of nirvāṇa as nirvāṇaṃ. However, we have other instances of nirvāṇa for example, nirvāṇamiti. However, for this we would need to lemmatize the words in the text. I have yet to successfully get this feature in cltk to work.
 
 ## To do
+Finish translating terms in the table.
+
 It would be helpful to create a concordance for the text. The results of the word count can help guide the initial focus of the concordance.
 
 Another step that would shine further light on the text and would be to successfully lemmatize the words in the text to get a count of the occurrences of word roots.
