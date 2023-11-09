@@ -68,5 +68,6 @@ It would be helpful to create a concordance for the text. The results of the wor
 Another step that would shine further light on the text and would be to successfully lemmatize the words in the text to get a count of the occurrences of word roots.
 
 ## References
-Sanskrit Dictionary - https://www.sanskritdictionary.com/
-Johnson, Kyle P. and Patrick Burns and John Stewart and Todd Cook. (2014-2021). CLTK: The Classical Language Toolkit. https://github.com/cltk/cltk
+1. Johnson, Kyle P. and Patrick Burns and John Stewart and Todd Cook. (2014-2021). CLTK: The Classical Language Toolkit. https://github.com/cltk/cltk
+2. Sanskrit Dictionary - https://www.sanskritdictionary.com/
+
