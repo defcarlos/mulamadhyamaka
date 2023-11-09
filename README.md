@@ -54,3 +54,15 @@ There were 2162 tokens, excluding things like chapter numbers and a few punctuat
 | tasya          |                                                                                                                                     | 10    |
 | tu             |                                                                                                                                     | 10    |
 | saha           |                                                                                                                                     | 10    |
+
+## Limitations
+After having completed the word count it became clear to me that not much can be said about the text based on the word count alone. It’s all well and good that Nagarjuna used na 236. Na to what? 
+
+As with all languages, the meaning of Sanskrit words can vary depending on their context. I had to return to the text to try and get a general sense of the word’s context throughout the text to see which meaning made the most sense. A good example of this is vā. According to Monier-Williams, it is “often used in disjunctive sentences; vā-vā, ‘either’ — ‘or’, ‘on the one side’ — ‘on the other’; na vā — vā or na — vā, ‘neither’ — ‘nor’; vā na-vā, ‘either not’ — ‘or’; yadi vā-vā, ‘whether’ — ‘or’”.
+
+Another complexity is that due to grammatical rules the endings of words change frequently. We can look at nirvāṇa. In MMK there are 13 instances of nirvāṇa as nirvāṇaṃ. However, we have other instances of nirvāṇa for example, nirvāṇamiti. However, for this we would need to lemmatize the words in the text. I have yet to successfully get this feature in cltk to work.
+
+## To do
+It would be helpful to create a concordance for the text. The results of the word count can help guide the initial focus of the concordance.
+
+Another step that would shine further light on the text and would be to successfully lemmatize the words in the text to get a count of the occurrences of word roots.
