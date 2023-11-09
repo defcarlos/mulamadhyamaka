@@ -1,6 +1,8 @@
 # Word count of Mulamadhyamakakarika
 ## Introduction
-While it is clear and agreed upon that the central topic of Mulamadhyamakakarika (MMK) is emptiness, I was curious to see if a word count of the text would reveal an emphasis by Nagarjuna on specific topics related to this theme. Moreover, I hoped that in finding that he used certain words with some frequency that it would help me to better understand the unifying theme by paying closer attention to parts of the text with frequently occurring words. 
+What follows are the initial results of a word count conducted on Mulamadhyamakakarika (MMK). This is a work in progress. Updates will be posted as I am able to work on this project.
+
+While it is clear and agreed upon that the central topic of MMK is emptiness, I was curious to see if a word count of the text would reveal an emphasis by Nagarjuna on specific topics related to this theme. Moreover, I hoped that in finding that he used certain words with some frequency that it would help me to better understand the unifying theme by paying closer attention to parts of the text with frequently occurring words. 
 
 ## Methods
 I created a text file version of MMK I could read into Python. I sourced the text from the [Digital Sanskrit Buddhist Canon](https://www.dsbcproject.org/canon-text/book/242).
